@@ -21,7 +21,7 @@ Avalanche is a network of networks consisting of subnets and dynamic sets of val
 | Subnet | Purpose |
 |:--|:--|
 | Platform (P) | The P-Chain is the metadata blockchain on Avalanche and coordinates validators, keeps track of active subnets, and enables the creation of new subnets. The P-Chain implements the Snowman consensus protocol. |
-| eXchange (X) | The X-Chain acts as a decentralised platform for creating and trading digital smart assets, a representation of a real-world resource (e.g., equity, bonds) with a set of rules that govern its behaviour, like “can’t be traded until tomorrow” or “can only be sent to US citizens.” |
+| eXchange (X) | The X-Chain acts as a decentralized platform for creating and trading digital smart assets, a representation of a real-world resource (e.g., equity, bonds) with a set of rules that govern its behaviour, like “can’t be traded until tomorrow” or “can only be sent to US citizens.” |
 | Contract (C) | The C-Chain allows for the creation smart contracts using the C-Chain’s API. The C-Chain is an instance of the Ethereum Virtual Machine powered by Avalanche. |
 
 ## What is AVAX?
